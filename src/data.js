@@ -193,8 +193,8 @@ module.exports = [
 {
       name: "PhoneMyat Pyae Sone",
       description: "student",
-      url: "https://github.com/Gr3y-PhoNiex",
-      github: "Gr3y-PhoNiex",
+      url: "https://github.com/PhoneMyatPyaeSone",
+      github: "PhoneMyatPyaeSone",
       emoji: "😎",
       computer: "linux",
       phone: "android",
